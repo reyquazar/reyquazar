@@ -20,7 +20,7 @@
 - **Parsing:** BeautifulSoup (bs4)
 - **Optical Character Recognition (OCR):** Tesseract
 - **GUI Development:** PyQt6
-### 4. Communication
+### 3. Communication
 
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Flauler)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egrq/)
@@ -29,8 +29,7 @@
 
 ---
 
-### 3. Projects
+### 4. Projects
 
----
 
 
