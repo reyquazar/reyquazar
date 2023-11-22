@@ -4,7 +4,9 @@
 
 <p>My name is Elshan
 I am a beginner backend developer, focusing on Python and utilizing the Django framework. Holding a Bachelor's degree in Computer Science and currently pursuing a Master's degree, I possess a solid foundation in software development. I am committed to continuous learning and staying updated on emerging technologies in the field of backend development.</p>
+
 ---
+
 ### 2. Technical Skills
 
 ---
