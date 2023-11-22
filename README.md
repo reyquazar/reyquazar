@@ -20,10 +20,6 @@
 - **Parsing:** BeautifulSoup (bs4)
 - **Optical Character Recognition (OCR):** Tesseract
 - **GUI Development:** PyQt6
----
-### 3. Projects
-
----
 ### 4. Communication
 
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Flauler)
@@ -32,4 +28,9 @@
 
 
 ---
+
+### 3. Projects
+
+---
+
 
