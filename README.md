@@ -17,6 +17,9 @@
 - **Containerization:** Docker
 - **API Development:** Django Rest Framework (DRF)
 - **Operating Systems:** Linux
+- **Parsing:** BeautifulSoup (bs4)
+- **Optical Character Recognition (OCR):** Tesseract
+- **GUI Development:** PyQt6
 ---
 ### 3. Projects
 
