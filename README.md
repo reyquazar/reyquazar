@@ -8,6 +8,15 @@
 
 ### 2. Technical Skills
 
+- **Programming Languages:** Python
+- **Web Frameworks:** Django, Flask
+- **Database:** PostgreSQL
+- **Data Science:** NumPy, Pandas, Matplotlib, Machine Learning (ML)
+- **Frontend:** HTML, CSS
+- **Asynchronous Programming:** asyncio
+- **Containerization:** Docker
+- **API Development:** Django Rest Framework (DRF)
+- **Operating Systems:** Linux
 ---
 ### 3. Projects
 
