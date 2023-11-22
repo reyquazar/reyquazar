@@ -28,7 +28,8 @@
 
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Flauler)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egrq/)
-- [![Email Badge](https://img.shields.io/badge/Email-elshan.elshan.82%40gmail.com-green)](javascript:void(prompt('Copy to clipboard:', 'elshan.elshan.82@gmail.com')))
+- [![Email Badge](https://img.shields.io/badge/Email-elshan.elshan.82%40gmail.com-green)](mailto:elshan.elshan.82@gmail.com)
+
 
 ---
 
