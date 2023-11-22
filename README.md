@@ -26,9 +26,10 @@
 ---
 ### 4. Communication
 
-- [![Telegram Badge]([https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://t.me/Flauler)<br/>
-- [![LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egrq/)
-- [![Email]([https://img.shields.io/badge/Email-elshan.elshan.82%40gmail.com-green](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:elshan.elshan.82@gmail.com)
+- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Flauler)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egrq/)
+- [![Email Badge](https://img.shields.io/badge/Email-elshan.elshan.82%40gmail.com-green)](mailto:elshan.elshan.82@gmail.com)
+
 ---
 
 <p align="center">
