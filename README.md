@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi %user_name% 👋
 ---
 ### 1. About me
 
