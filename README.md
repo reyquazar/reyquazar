@@ -15,7 +15,7 @@
 - **Frontend:** HTML, CSS
 - **Asynchronous Programming:** asyncio
 - **Containerization:** Docker
-- **API Development:** Django Rest Framework (DRF)
+- **API Development:** Django Rest Framework
 - **Operating Systems:** Linux
 - **Parsing:** BeautifulSoup (bs4)
 - **Optical Character Recognition (OCR):** Tesseract
