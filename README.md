@@ -2,7 +2,7 @@
 ---
 ### 1. About me
 
-<p>My name is Elshan. I'm backend developer, focusing on Python and utilizing the Django framework. Holding a Bachelor's degree in Computer Science and currently pursuing a Master's degree, I possess a solid foundation in software development. I am committed to continuous learning and staying updated on emerging technologies in the field of backend development.</p>
+<p>Backend developer with experience in Java and Python. I quickly learn new technologies and strive for continuous professional growth. I enjoy working in a team, where I can quickly dive into new tasks and solve them effectively. My goal is to deepen my knowledge in backend development and contribute to successful projects.</p>
 
 ---
 
