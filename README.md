@@ -13,13 +13,7 @@
 - **Database:** PostgreSQL
 - **Data Science:** NumPy, Pandas, Matplotlib, sklearn
 - **Frontend:** HTML, CSS
-- **Asynchronous Programming:** asyncio
 - **Containerization:** Docker
-- **API Development:** Django Rest Framework
-- **Operating Systems:** Linux
-- **Parsing:** BeautifulSoup (bs4)
-- **Optical Character Recognition (OCR):** Tesseract
-- **GUI Development:** PyQt6
 ### 3. Communication
 
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Flauler)
